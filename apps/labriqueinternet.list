@@ -1,13 +1,13 @@
 {
     "vpnclient": {
         "branch": "master",
-        "revision": "355b24ea0cd3467d7ba1390ab7d34dd4b2500229",
+        "revision": "HEAD",
         "state": "validated",
         "url": "https://github.com/labriqueinternet/vpnclient_ynh"
     },
     "hotspot": {
         "branch": "master",
-        "revision": "5ee291480d4b91b136e108cac6b281b748777053",
+        "revision": "HEAD",
         "state": "validated",
         "url": "https://github.com/labriqueinternet/hotspot_ynh"
     },
